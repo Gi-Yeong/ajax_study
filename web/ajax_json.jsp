@@ -20,6 +20,7 @@
 		return;
 	}
 
+	//  주석 테스트
 	Connection conn = dbManager.getConnection();
 
 	PreparedStatement ps = null;
